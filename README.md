@@ -10,3 +10,4 @@ turn clouds into sounds
 * [iOS float buffer to audio playback](https://stackoverflow.com/questions/29021528/ios-float-buffer-to-audio-playback)
 * [RockLobster/Bresenham-Swift](https://github.com/RockLobster/Bresenham-Swift)
 * [pixels on line](https://github.com/MainasuK/Bresenham-Line)
+* [ivpusic/react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker)
