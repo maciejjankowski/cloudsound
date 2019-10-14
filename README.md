@@ -8,3 +8,5 @@ turn clouds into sounds
 * [UIImage](https://developer.apple.com/documentation/uikit/uiimage)
 * [Take, save and retrieve a photo — iOS #13](https://appsandbiscuits.com/take-save-and-retrieve-a-photo-ios-13-4312f96793ff)
 * [iOS float buffer to audio playback](https://stackoverflow.com/questions/29021528/ios-float-buffer-to-audio-playback)
+* [RockLobster/Bresenham-Swift](https://github.com/RockLobster/Bresenham-Swift)
+* [pixels on line](https://github.com/MainasuK/Bresenham-Line)
