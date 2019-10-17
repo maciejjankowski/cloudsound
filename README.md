@@ -11,3 +11,11 @@ turn clouds into sounds
 * [RockLobster/Bresenham-Swift](https://github.com/RockLobster/Bresenham-Swift)
 * [pixels on line](https://github.com/MainasuK/Bresenham-Line)
 * [ivpusic/react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker)
+
+
+* [ akey7/numpy_array_to_speakers.pyCreated 2 years ago • Report abuse](https://gist.github.com/akey7/94ff0b4a4caf70b98f0135c1cd79aff3)
+* [Short Tutorial wave object simple audio](https://simpleaudio.readthedocs.io/en/latest/tutorial.html#waveobject-s)
+* [Sound Processing Utilities](http://work.thaslwanter.at/sksound/html/sounds.html#sounds.Sound.get_info)
+* [image manipulation python](http://scipy-lectures.org/advanced/image_processing/)
+* [How to: Convert between a PIL Image and a numpy array](https://kite.com/python/examples/4887/pil-convert-between-a-pil-%60image%60-and-a-numpy-%60array%60)
+* [A crash course on NumPy for images](https://scikit-image.org/docs/dev/user_guide/numpy_images.html)
